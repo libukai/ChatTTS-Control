@@ -47,6 +47,7 @@ https://github.com/libukai/Awesome-ChatTTS/assets/5654585/532bfb80-316a-4244-9b9
 | [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) |                 ![Star](https://img.shields.io/github/stars/HKoon/ChatTTS-OpenVoice)                 | 配合 OpenVoice 进行声音克隆              |
 | [Jackiexiao/ChatTTS-api-ui-docker](https://github.com/Jackiexiao/ChatTTS-api-ui-docker) |            ![Star](https://img.shields.io/github/stars/Jackiexiao/ChatTTS-api-ui-docker)             | 提供 腾讯云 Docker 镜像，仅支持带 CUDA 的 GPU |
 | [MaterialShadow/ChatTTS-manager](https://github.com/MaterialShadow/ChatTTS-manager) |            ![Star](https://img.shields.io/github/stars/MaterialShadow/ChatTTS-manager)             | 提供了音色管理系统和 WebUI 界面              |
+| [TommyZihao/ChatTTS_Tutorials](https://github.com/TommyZihao/ChatTTS_Tutorials)  |            ![Star](https://img.shields.io/github/stars/TommyZihao/ChatTTS_Tutorials)             |     代码教程：五分钟部署开源语音合成神器ChatTTS          |
 
 ## 视频教程
 
